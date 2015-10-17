@@ -1,0 +1,8 @@
+{
+  "name": "2015-developer-summit",
+  "version": "1.0.0",
+  "dependencies": {
+    "bootstrap": "^3.3.5"
+  },
+  "devDependencies": {}
+}
