@@ -14,3 +14,11 @@ Custom static assets live in the `public` directory.
 
 [1]: http://getbootstrap.com/
 [2]: http://npmjs.com
+
+##Location
+
+The dev summit is taking place at [DO](www.do.co). Trains that you can take:
+
+* NONE OF THEM
+* The bus?
+* Holland Tunnel ZOMG nOPE
