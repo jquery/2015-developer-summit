@@ -4,5 +4,9 @@
   "dependencies": {
     "bootstrap": "^3.3.5"
   },
+  "repository" :
+  { "type" : "git"
+  , "url" : "https://github.com/jquery/2015-developer-summit.git"
+  },
   "devDependencies": {}
 }
