@@ -3,7 +3,7 @@
 
 [![Join the chat at https://gitter.im/jquery/2015-developer-summit](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/jquery/2015-developer-summit?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
-`2015-developer-summit` is a static site built using [Boostrap][1].
+`2015-developer-summit` is a static site built using [Bootstrap][1].
 It uses [npm][2] to manage its dependencies.
 Custom static assets live in the `public` directory.
 
