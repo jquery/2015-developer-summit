@@ -19,7 +19,7 @@ Custom static assets live in the `public` directory.
 
 ##Location
 
-The dev summit is taking place at [DO](www.do.co). Trains that you can take:
+The dev summit is taking place at [DO](http://www.do.co). Trains that you can take:
 
 * NONE OF THEM
 * The bus?
